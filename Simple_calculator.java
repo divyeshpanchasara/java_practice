@@ -20,7 +20,7 @@ public class Simple_calculator {
             System.out.printf("The difference is %f",a*b);
         }
         else if(c=='/'){
-            System.out.printf("The difference is %f",(Double)a/(Double)b);
+            System.out.printf("The difference is %f",a/b);
         }
 
     }
